@@ -35,7 +35,7 @@
 //    @Column(name = "category")
 //    private String category;
 //}
-package com.sashank.QuizApp;
+package com.sashank.QuizApp.model;
 
 import jakarta.persistence.*;
 
